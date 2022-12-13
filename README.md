@@ -14,7 +14,7 @@ This allow user to send number of messages to saved whatsapp contact/contacts.
 
 ### Step 3: Clone this repository
 
-```  ```
+``` https://github.com/jogi-rajeshkumar/WhatsAppBot.git ```
 
 ### Step 4: Open whatsapp_sendmessage.py and change the target name and frequency to the name of your contact 
 
